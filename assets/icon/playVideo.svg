@@ -1,0 +1,7 @@
+<svg id="vuesax_bulk_play-circle" data-name="vuesax/bulk/play-circle" xmlns="http://www.w3.org/2000/svg" width="42.045" height="42.045" viewBox="0 0 42.045 42.045">
+  <g id="play-circle" transform="translate(0 0)">
+    <path id="Vector" d="M35.037,17.519A17.519,17.519,0,1,1,17.519,0,17.519,17.519,0,0,1,35.037,17.519Z" transform="translate(3.451 3.504)" fill="#fff" opacity="0.4"/>
+    <path id="Vector-2" d="M11.142,3.477,6.061.552a3.985,3.985,0,0,0-4.047,0A4,4,0,0,0,0,4.056V9.924a4.037,4.037,0,0,0,4.029,4.047,3.956,3.956,0,0,0,2.015-.543l5.08-2.926A4,4,0,0,0,13.139,7,3.91,3.91,0,0,0,11.142,3.477Z" transform="translate(15.084 14.444)" fill="#fff"/>
+    <path id="Vector-3" d="M0,0H42.045V42.045H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

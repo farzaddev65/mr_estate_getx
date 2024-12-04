@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g id="Group_10109" transform="translate(-17 -102)">
+        <g id="vuesax_outline_arrow-up" transform="translate(49 134) rotate(180)">
+            <g id="vuesax_outline_arrow-up-2">
+                <g id="arrow-up">
+                    <path id="Vector"
+                        d="M14.333,28.667A14.333,14.333,0,1,1,28.667,14.333,14.35,14.35,0,0,1,14.333,28.667ZM14.333,2A12.333,12.333,0,1,0,26.666,14.333,12.346,12.346,0,0,0,14.333,2Z"
+                        transform="translate(1.667 1.667)" fill="#00ac3f" />
+                    <path id="Vector-2"
+                        d="M0,9V1A1.007,1.007,0,0,1,1,0,1.007,1.007,0,0,1,2,1V9a1.007,1.007,0,0,1-1,1A1.007,1.007,0,0,1,0,9Z"
+                        transform="translate(15 11.667)" fill="#00ac3f" />
+                    <path id="Vector-3"
+                        d="M8.29,5.7,5,2.41,1.7,5.7A1,1,0,0,1,.29,4.29l4-4A1.006,1.006,0,0,1,5.7.29l4,4A1.006,1.006,0,0,1,9.7,5.7a1,1,0,0,1-1.413,0Z"
+                        transform="translate(11.003 10.337)" fill="#00ac3f" />
+                    <path id="Vector-4" d="M32,0V32H0V0Z" fill="#00ac3f" opacity="0" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

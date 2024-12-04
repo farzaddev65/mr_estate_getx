@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.955" height="31.955" viewBox="0 0 31.955 31.955">
+  <g id="Group_10110" transform="translate(-17 -197)">
+    <g id="vuesax_outline_arrow-up" transform="translate(17 197)">
+      <g id="vuesax_outline_arrow-up-2">
+        <g id="arrow-up">
+          <path id="Vector" d="M14.313,28.627A14.313,14.313,0,1,1,28.627,14.313,14.33,14.33,0,0,1,14.313,28.627ZM14.313,2A12.316,12.316,0,1,0,26.629,14.313,12.329,12.329,0,0,0,14.313,2Z" transform="translate(1.664 1.664)" fill="#ff004e"/>
+          <path id="Vector-2" d="M0,8.987V1A1.006,1.006,0,0,1,1,0,1.006,1.006,0,0,1,2,1V8.987a1.006,1.006,0,0,1-1,1A1.006,1.006,0,0,1,0,8.987Z" transform="translate(14.979 11.65)" fill="#ff004e"/>
+          <path id="Vector-3" d="M8.278,5.7,4.99,2.407,1.7,5.7A1,1,0,0,1,.29,4.284L4.284.29A1,1,0,0,1,5.7.29L9.69,4.284a1,1,0,0,1,0,1.411,1,1,0,0,1-1.411,0Z" transform="translate(10.987 10.322)" fill="#ff004e"/>
+          <path id="Vector-4" d="M31.955,0V31.955H0V0Z" fill="#ff004e" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

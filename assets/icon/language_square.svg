@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="vuesax_linear_language-square" transform="translate(0.5 0.5)" opacity="0.56">
+    <g id="vuesax_linear_language-square-2">
+      <g id="language-square">
+        <g id="Group" transform="translate(7 7.28)">
+          <path id="Vector" d="M9.98,0H0" transform="translate(0.01 1.68)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+          <path id="Vector-2" d="M0,0V1.68" transform="translate(5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+          <path id="Vector-3" d="M7.5,0A7.643,7.643,0,0,1,0,7.78" transform="translate(0 1.66)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+          <path id="Vector-4" d="M4.55,2.47A5.762,5.762,0,0,1,0,0" transform="translate(5.45 6.97)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        </g>
+        <path id="Vector-5" d="M13,20c5,0,7-2,7-7V7c0-5-2-7-7-7H7C2,0,0,2,0,7v6c0,5,2,7,7,7Z" transform="translate(2 2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <path id="Vector-6" d="M24,0V24H0V0Z" transform="translate(24 24) rotate(180)" fill="none" stroke="#000" stroke-width="1" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

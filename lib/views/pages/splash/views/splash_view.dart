@@ -36,7 +36,7 @@ class SplashView extends GetView<SplashController> {
         drawer: DrawerWidget(
           list: <DrawerItems>[
             DrawerItems(title: 'خانه', icon: AppIcons.share, onTap: () {}),
-            DrawerItems(title: 'پروفایل', icon: AppIcons.harvest, onTap: () {}),
+            DrawerItems(title: 'پروفایل', icon: AppIcons.saShop, onTap: () {}),
           ],
         ),
         body: Obx(
